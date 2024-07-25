@@ -292,6 +292,10 @@ body {
     flex-wrap: wrap;
 }
 
+.projects i {
+    color: #ff0;
+}
+
 .card {
     background-color: black;
     width: 200px;
